@@ -1,0 +1,9 @@
+total 24K
+drwxrwxr-x 3 name name 4.0K Nov 11 11:01 .
+drwxrwxr-x 5 name name 4.0K Nov 10 11:13 ..
+-rw-rw-r-- 1 name name   35 Nov 11 10:57 deployments.txt
+-rw-rw-r-- 1 name name    0 Nov 11 11:01 directory-list.txt
+-rw-rw-r-- 1 name name   70 Nov 11 11:00 error.log
+drwxrwxr-x 2 name name 4.0K Nov 11 10:40 logs
+-rw-rw-r-- 1 name name   97 Nov 11 10:46 users.txt
+Directory inspection completed
