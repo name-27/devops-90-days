@@ -1,0 +1,3 @@
+alex:admin
+john:developer
+mike:operator
