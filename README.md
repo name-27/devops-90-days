@@ -34,6 +34,7 @@
 - [x] Day 03 — Bash fundamentals
 - [x] Day 04 — Linux permissions, users and groups
 - [x] Day 05 — Linux processes and services
+- [x] Day 06 — Linux disk and filesystem management
 
 ## Практические проекты
 
@@ -48,3 +49,4 @@
 - `day03-bash/` — Bash, скрипты, функции, условия, циклы и автоматизация.
 - `day04-permissions/` — права доступа, пользователи и группы.
 - `day05-processes-services/` — процессы, управление службами и системные журналы.
+- `day06-disk-filesystems/` — диски, файловые системы, inode, loop-устройства и монтирование.
