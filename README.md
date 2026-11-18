@@ -30,8 +30,10 @@
 ## Ежедневный прогресс
 
 - [x] Day 01 — Linux fundamentals
-- [ ] Day 02 — Linux text processing
-- [ ] Day 03 — Bash fundamentals
+- [x] Day 02 — Linux text processing
+- [x] Day 03 — Bash fundamentals
+- [x] Day 04 — Linux permissions, users and groups
+- [x] Day 05 — Linux processes and services
 
 ## Практические проекты
 
@@ -42,3 +44,7 @@
 ## Структура репозитория
 
 - `day01-linux/` — Linux: основы, команды и практические лабораторные работы.
+- `day02-text-processing/` — обработка текста и работа с потоками данных.
+- `day03-bash/` — Bash, скрипты, функции, условия, циклы и автоматизация.
+- `day04-permissions/` — права доступа, пользователи и группы.
+- `day05-processes-services/` — процессы, управление службами и системные журналы.
