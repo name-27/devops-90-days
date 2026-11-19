@@ -35,6 +35,7 @@
 - [x] Day 04 — Linux permissions, users and groups
 - [x] Day 05 — Linux processes and services
 - [x] Day 06 — Linux disk and filesystem management
+- [x] Day 07 — Linux storage management: partitions and filesystems
 
 ## Практические проекты
 
@@ -50,3 +51,4 @@
 - `day04-permissions/` — права доступа, пользователи и группы.
 - `day05-processes-services/` — процессы, управление службами и системные журналы.
 - `day06-disk-filesystems/` — диски, файловые системы, inode, loop-устройства и монтирование.
+- `day07-storage-management/` — GPT/MBR, таблицы разделов, UUID/PARTUUID и проверка файловых систем.
