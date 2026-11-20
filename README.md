@@ -36,6 +36,7 @@
 - [x] Day 05 — Linux processes and services
 - [x] Day 06 — Linux disk and filesystem management
 - [x] Day 07 — Linux storage management: partitions and filesystems
+- [x] Day 08 — Linux storage: LVM, Swap and persistent mounts
 
 ## Практические проекты
 
@@ -52,3 +53,4 @@
 - `day05-processes-services/` — процессы, управление службами и системные журналы.
 - `day06-disk-filesystems/` — диски, файловые системы, inode, loop-устройства и монтирование.
 - `day07-storage-management/` — GPT/MBR, таблицы разделов, UUID/PARTUUID и проверка файловых систем.
+- `day08-lvm-swap/` — LVM, логические тома, Swap-файлы и постоянное монтирование через fstab.
