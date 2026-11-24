@@ -1,0 +1,10 @@
+{
+  "project": "devops-90-days",
+  "day": 9,
+  "status": "in-progress",
+  "tools": ["linux", "git", "docker", "jq"],
+  "user": {
+    "role": "devops-engineer",
+    "level": "junior"
+  }
+}

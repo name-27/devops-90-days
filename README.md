@@ -37,6 +37,7 @@
 - [x] Day 06 — Linux disk and filesystem management
 - [x] Day 07 — Linux storage management: partitions and filesystems
 - [x] Day 08 — Linux storage: LVM, Swap and persistent mounts
+- [x] Day 09 — Linux package management
 
 ## Практические проекты
 
@@ -54,3 +55,4 @@
 - `day06-disk-filesystems/` — диски, файловые системы, inode, loop-устройства и монтирование.
 - `day07-storage-management/` — GPT/MBR, таблицы разделов, UUID/PARTUUID и проверка файловых систем.
 - `day08-lvm-swap/` — LVM, логические тома, Swap-файлы и постоянное монтирование через fstab.
+- `day09-package-management/` — управление пакетами Linux с помощью APT и dpkg, зависимости и практика работы с jq.

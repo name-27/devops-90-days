@@ -1,0 +1,23 @@
+{
+  "server": "kali-devops",
+  "containers": [
+    {
+      "name": "nginx",
+      "image": "nginx:latest",
+      "status": "running",
+      "cpu": 12
+    },
+    {
+      "name": "postgres",
+      "image": "postgres:16",
+      "status": "running",
+      "cpu": 25
+    },
+    {
+      "name": "redis",
+      "image": "redis:7",
+      "status": "stopped",
+      "cpu": 0
+    }
+  ]
+}
