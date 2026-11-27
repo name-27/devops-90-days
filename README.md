@@ -39,6 +39,7 @@
 - [x] Day 08 — Linux storage: LVM, Swap and persistent mounts
 - [x] Day 09 — Linux package management
 - [x] Day 10 — Linux logs and diagnostics
+- [x] Day 11 — Linux boot process and systemd
 
 ## Практические проекты
 
@@ -58,3 +59,4 @@
 - `day08-lvm-swap/` — LVM, логические тома, Swap-файлы и постоянное монтирование через fstab.
 - `day09-package-management/` — управление пакетами Linux с помощью APT и dpkg, зависимости и практика работы с jq.
 - `day10-linux-logs/` — системные журналы, диагностика Linux, основы сетевой диагностики и ротация логов с помощью logrotate.
+- `day11-boot-systemd/` — процесс загрузки Linux, UEFI, GRUB, kernel, initramfs, systemd, targets, unit-файлы, зависимости и порядок запуска.
